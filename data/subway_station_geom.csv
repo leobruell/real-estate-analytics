@@ -1,0 +1,11 @@
+url,objectid,name,the_geom,line,notes
+http://web.mta.info/nyct/service/,451,86th St,POINT (-73.95558899985132 40.77949199820952),4-5-6-6 Express,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
+http://web.mta.info/nyct/service/,641,72nd St,POINT (-73.95836178682246 40.76880251014895),Q,Q-all times
+http://web.mta.info/nyct/service/,642,86th St,POINT (-73.95177090964917 40.77786104333163),Q,Q-all times
+http://web.mta.info/nyct/service/,643,96th St,POINT (-73.9470660219183 40.784236650177654),Q,Q-all times
+http://web.mta.info/nyct/service/,351,Lexington Ave - 63rd St,POINT (-73.96608964413245 40.76461809442373),F-Q,"F-all times, Q all times"
+http://web.mta.info/nyct/service/,357,Lexington Ave - 59th St,POINT (-73.96737501711436 40.762708855394564),N-R-W,"N-all times, R-all times exc nights, W part time"
+http://web.mta.info/nyct/service/,33,96th St,POINT (-73.9510700015425 40.78567199998607),4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+http://web.mta.info/nyct/service/,34,77th St,POINT (-73.95987399886047 40.77362000074615),4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+http://web.mta.info/nyct/service/,49,Lexington Ave - 59th St,POINT (-73.9679670004732 40.762526000304575),4-5-6-6 Express,"4,6-all times, 5-all times exc nights, 6 Express-weekdays AM southbound, PM northbound"
+http://web.mta.info/nyct/service/,102,68th St - Hunter College,POINT (-73.96387000158042 40.76814100049679),4-6-6 Express,"4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
